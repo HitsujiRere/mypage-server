@@ -1,2 +1,5 @@
+function hello(name: string): string {
+    return `Hello, ${name}!`;
+}
 
-console.log('Hello, World!');
+console.log(hello("TypeScript"));
