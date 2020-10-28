@@ -1,6 +1,12 @@
 # mypage-server
 
-Typescript + Node.js + Vue.js
+## Server
+
+Typescript + Node.js + Express.js
+
+## Client
+
+Vue.js
 
 # License
 
